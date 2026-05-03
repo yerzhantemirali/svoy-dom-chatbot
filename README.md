@@ -1,7 +1,7 @@
 # SVOYDOM Chatbot
 
 ## Демо
-<video src="other/demo.mp4" width="100%" controls></video>
+![Demo](other/demo.gif)
 
 ---
 
